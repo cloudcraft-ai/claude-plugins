@@ -13,7 +13,7 @@
         "repo": "jagmeetchawla/gitreceipts"
       },
       "description": "See what your agent actually did \u2014 audit Claude Code sessions against git history, from inside Claude Code.",
-      "version": "0.1.7"
+      "version": "0.1.8"
     }
   ]
 }
