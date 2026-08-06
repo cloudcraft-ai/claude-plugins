@@ -1,0 +1,19 @@
+{
+  "name": "cloudcraft",
+  "description": "CloudCraft AI Labs plugins for Claude Code \u2014 starting with gitreceipts: audit your agent's sessions against git history.",
+  "owner": {
+    "name": "CloudCraft AI Labs",
+    "email": "hello@jagmeet.dev"
+  },
+  "plugins": [
+    {
+      "name": "gitreceipts",
+      "source": {
+        "source": "github",
+        "repo": "jagmeetchawla/gitreceipts"
+      },
+      "description": "See what your agent actually did \u2014 audit Claude Code sessions against git history, from inside Claude Code.",
+      "version": "0.1.0"
+    }
+  ]
+}
