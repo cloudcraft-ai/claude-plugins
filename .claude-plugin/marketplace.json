@@ -13,7 +13,7 @@
         "url": "https://github.com/jagmeetchawla/gitreceipts.git"
       },
       "description": "See what your agent actually did \u2014 audit Claude Code sessions against git history, from inside Claude Code.",
-      "version": "0.1.11"
+      "version": "0.1.12"
     }
   ]
 }
