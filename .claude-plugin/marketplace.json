@@ -9,8 +9,8 @@
     {
       "name": "gitreceipts",
       "source": {
-        "source": "github",
-        "repo": "jagmeetchawla/gitreceipts"
+        "source": "url",
+        "url": "https://github.com/jagmeetchawla/gitreceipts.git"
       },
       "description": "See what your agent actually did \u2014 audit Claude Code sessions against git history, from inside Claude Code.",
       "version": "0.1.8"
