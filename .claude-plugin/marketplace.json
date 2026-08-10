@@ -13,7 +13,7 @@
         "url": "https://github.com/jagmeetchawla/gitreceipts.git"
       },
       "description": "Read what your Claude Code agent actually did \u2014 the session as a story, checked against git. Recap for what happened, audit for the verdict.",
-      "version": "0.2.1"
+      "version": "0.2.2"
     }
   ]
 }
